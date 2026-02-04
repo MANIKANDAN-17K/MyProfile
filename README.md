@@ -154,21 +154,10 @@ Coffee ☕ → Code 💻 → Create 🚀 → Repeat 🔄
 
 ## 📊 GitHub Statistics
 
-| GitHub Stats | GitHub Streak |
-|-------------|---------------|
-| ![](https://github-readme-stats.vercel.app/api?username=MANIKANDAN-17K&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MANIKANDAN-17K&theme=radical&hide_border=true&cache_seconds=86400) |
-
-| Top Languages |
-|---------------|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANIKANDAN-17K&theme=radical&layout=compact&cache_seconds=86400) |
-
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MANIKANDAN-17K&theme=radical&utcOffset=5.5" />
 
 <!-- CONTRIBUTION GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MANIKANDAN-17K&theme=react-dark&hide_border=true&area=true" width="98%">
 
-<!-- TROPHY STATS -->
-<img src="https://github-profile-trophy.vercel.app/?username=MANIKANDAN-17K&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="98%" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
