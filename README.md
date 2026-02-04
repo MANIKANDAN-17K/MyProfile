@@ -5,9 +5,9 @@
 
 <!-- ANIMATED TYPING -->
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+%F0%9F%91%8B+I'm+Manikandan;Full+Stack+Developer+%7C+AI+Enthusiast;Turning+Ideas+into+Digital+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Hey+there!+%F0%9F%91%8B+I'm+Manikandan;Full+Stack+Developer+%7C+AI+Enthusiast;Turning+Ideas+into+Digital+Reality+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8" alt="Typing SVG" />
 </h2>
-
+<br>
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-00D9FF?style=for-the-badge&logo=apache-spark&logoColor=white" />
@@ -165,24 +165,24 @@ Coffee ☕ → Code 💻 → Create 🚀 → Repeat 🔄
 
 <!-- CODING ACTIVITY -->
 <div align="center">
+<h1> ##⚡ Coding Activity & Insights</h1
 
-## ⚡ Coding Activity & Insights
-
-<details>
-<summary><b>📈 Detailed GitHub Metrics</b></summary>
+<div>
+<summary><b>📈 Detailed GitHub Metrics</b></summary
 <br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MANIKANDAN-17K&theme=radical" width="98%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MANIKANDAN-17K&theme=radical" width="100%"/>
 
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MANIKANDAN-17K&theme=radical" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MANIKANDAN-17K&theme=radical" />
+|      Repos per Language      |     Most Commit Language      |
+|------------------------------|-------------------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MANIKANDAN-17K&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MANIKANDAN-17K&theme=radical) |
 
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MANIKANDAN-17K&theme=radical" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MANIKANDAN-17K&theme=radical&utcOffset=5.5" />
+|       GitHub Stats            |      Productive Time         |
+|-------------------------------|------------------------------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MANIKANDAN-17K&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MANIKANDAN-17K&theme=radical&utcOffset=5.5) |
+</div>
 
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 </div>
 
