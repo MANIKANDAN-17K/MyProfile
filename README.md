@@ -154,10 +154,14 @@ Coffee ☕ → Code 💻 → Create 🚀 → Repeat 🔄
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MANIKANDAN-17K&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANIKANDAN-17K&theme=radical&hide_border=true" />
+| GitHub Stats | GitHub Streak |
+|-------------|---------------|
+| ![](https://github-readme-stats.vercel.app/api?username=MANIKANDAN-17K&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400) | ![](https://github-readme-streak-stats.herokuapp.com/?user=MANIKANDAN-17K&theme=radical&hide_border=true&cache_seconds=86400) |
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANIKANDAN-17K&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+| Top Languages |
+|---------------|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MANIKANDAN-17K&theme=radical&layout=compact&cache_seconds=86400) |
+
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MANIKANDAN-17K&theme=radical&utcOffset=5.5" />
 
 <!-- CONTRIBUTION GRAPH -->
