@@ -191,53 +191,62 @@ Coffee ☕ → Code 💻 → Create 🚀 → Repeat 🔄
 
 ## 🌟 Featured Projects
 
+<div align="center">
+
+## 🌟 Featured Projects
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Project 1 Name</h3>
+<h3 align="center">Ekart E-Commerce Platform</h3>
 <div align="center">
-<a href="https://github.com/MANIKANDAN-17K/project-1" target="_blank">
+<a href="https://github.com/MANIKANDAN-17K/Ekart-using-angular" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-<p>Brief description of what this amazing project does and why it's awesome!</p>
+<p><strong>Tech Stack:</strong> Angular, TypeScript, HTML, CSS</p>
+<p>An e-commerce web application built with Angular featuring product browsing, cart functionality, and modern UI design.</p>
 </div>
 </td>
+
 <td width="50%">
-<h3 align="center">Project 2 Name</h3>
+<h3 align="center">ToDo List Management System</h3>
 <div align="center">
-<a href="https://github.com/MANIKANDAN-17K/project-2" target="_blank">
+<a href="https://github.com/MANIKANDAN-17K/ToDoList-using-SpringBoot" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<p><strong>Tech Stack:</strong> Python, Django, PostgreSQL</p>
-<p>Brief description of what this incredible project accomplishes!</p>
+<p><strong>Tech Stack:</strong> Java, Spring Boot, MySQL</p>
+<p>A backend-driven task management system allowing users to create, update, and track daily tasks efficiently.</p>
 </div>
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-<h3 align="center">Project 3 Name</h3>
+<h3 align="center">Packet Delay Visualization</h3>
 <div align="center">
-<a href="https://github.com/MANIKANDAN-17K/project-3" target="_blank">
+<a href="https://github.com/MANIKANDAN-17K/PacketDelayVisualization" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<p><strong>Tech Stack:</strong> Angular, Spring Boot, MySQL</p>
-<p>Brief description of this innovative project's features!</p>
+<p><strong>Tech Stack:</strong> Python, Networking, Data Visualization</p>
+<p>A Python-based project that analyzes and visualizes packet delays in network communication.</p>
 </div>
 </td>
+
 <td width="50%">
-<h3 align="center">Project 4 Name</h3>
+<h3 align="center">Bus Tracking Application</h3>
 <div align="center">
-<a href="https://github.com/MANIKANDAN-17K/project-4" target="_blank">
+<a href="https://github.com/MANIKANDAN-17K/Bus-Tracking-Application" target="_blank">
 <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<p><strong>Tech Stack:</strong> Next.js, Express, MongoDB</p>
-<p>Brief description of this cutting-edge project!</p>
+<p><strong>Tech Stack:</strong> JavaScript, Node.js, Web Technologies</p>
+<p>A real-time bus tracking system designed to monitor and visualize vehicle locations.</p>
 </div>
 </td>
 </tr>
+
 </table>
 
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
